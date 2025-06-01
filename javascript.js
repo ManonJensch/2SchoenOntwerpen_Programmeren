@@ -55,7 +55,7 @@ function wisselHome(){
 function wisselEindscherm(){
     document.getElementById("schoenSoortKiezen").style.display = "none";
     document.getElementById("eindScherm").style.display = "block";
-    document.body.style.backgroundImage = "url(/afbeeldingen/confetti.jpg)";
+    document.body.style.backgroundImage = "url(afbeeldingen/confetti.jpg)";
     const veranderTitel = document.getElementById("veranderTitel");
     veranderTitel.textContent = "Jouw eindresultaat! Geweldig!";
 }
