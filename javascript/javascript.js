@@ -31,7 +31,7 @@ let zoolIndex = 0;
 const verschillendeBinnenkant = ["binnenkant1", "binnenkant2", "binnenkant3", "binnenkant4", "binnenkant5", "binnenkant6"];
 let binnenkantIndex = 0;
 
-let achtergrondVeranderen = ["url(/afbeeldingen/achtergrond3.jpg)", "url(/afbeeldingen/achtergrond2.jpg)", "url(/afbeeldingen/achtergrond1.jpg)"];
+let achtergrondVeranderen = ["url(afbeeldingen/achtergrond3.jpg)", "url(afbeeldingen/achtergrond2.jpg)", "url(afbeeldingen/achtergrond1.jpg)"];
 let volgendeKnop = document.getElementById("volgendeKnop");
 
 // met hulp van chatgpt
